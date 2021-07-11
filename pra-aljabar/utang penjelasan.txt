@@ -1,0 +1,3 @@
+menjelaskan secara singkat tentang "melakukan operasi matematika"/"penyederhanaan ekspresi"
+
+menjelaskan mengapa pembagian terhadap 0 itu adalah tak terdefinisi, bukan tak terhingga di aljabar 1
